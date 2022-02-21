@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Smart City Bus </title>
+    <link>https://smartcitybusproject.github.io/pages/</link>
+    <description>Recent content in Pages on Smart City Bus </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://smartcitybusproject.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History</title>
+      <link>https://smartcitybusproject.github.io/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://smartcitybusproject.github.io/history/</guid>
+      <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+    Ε2.1 Ανάλυση τεχνικών απαιτήσεων και σχεδιασμός αρχιτεκτονικής πλατφόρμας IoT (Μ3-Μ8)
+Ε2.2 Υλοποίηση του πρώτου πρωτοτύπου της πλατφόρμας IoT (Μ9-Μ18)</description>
+    </item>
+    
+    <item>
+      <title>Παραδοτέα</title>
+      <link>https://smartcitybusproject.github.io/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://smartcitybusproject.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
