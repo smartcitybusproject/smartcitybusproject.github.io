@@ -7,23 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="https://smartcitybusproject.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>History</title>
-      <link>https://smartcitybusproject.github.io/history/</link>
-      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      
-      <guid>https://smartcitybusproject.github.io/history/</guid>
-      <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
-    Ε2.1 Ανάλυση τεχνικών απαιτήσεων και σχεδιασμός αρχιτεκτονικής πλατφόρμας IoT (Μ3-Μ8)
-Ε2.2 Υλοποίηση του πρώτου πρωτοτύπου της πλατφόρμας IoT (Μ9-Μ18)</description>
-    </item>
-    
-    <item>
       <title>Παραδοτέα</title>
       <link>https://smartcitybusproject.github.io/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://smartcitybusproject.github.io/about/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>NEA</title>
+      <link>https://smartcitybusproject.github.io/history/</link>
+      <pubDate>Mon, 12 Feb 2018 15:37:57 +0700</pubDate>
+      
+      <guid>https://smartcitybusproject.github.io/history/</guid>
+      <description> Νέα  19 Σεπτεμβρίου 2020 | Εναρκτήρια Συνάντηση
+10 Σεπτεμβρίου 2021 | Δημιουγία Ιστοσελίδας
+15 Νοεμβρίου 2022 | Υποβολή δημοσίευσης στο συνέδριο WDSM 23
+02 Δεκεμβρίου 2022 | Γνωστοποίηση αποδοχής δημοσίευσης στο συνέδριο WDSM 23
+04 Απριλίου 2023| Συνάντηση των συνεργαζόμενων φορέων δια ζώσης στο Πανεπιστήμιο Ιωαννίνων.
+29 Ιουνίου 2023 | Παρουσίαση Poster στο Summer School (SummerSOC) 2023
+27 Ιουλίου 2023 | Συνολική επισκόπηση όλων των παραδοτέων
+    </description>
     </item>
     
   </channel>
